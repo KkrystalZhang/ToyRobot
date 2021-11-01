@@ -3,6 +3,8 @@
 
 **Email:** zkkrystal1121@gmail.com
 
+**Github:** https://github.com/KkrystalZhang/ToyRobot
+
 ## Structure
 ### Main
 Contains the logic to interact with user input to move and report position of the robot. The program takes input from standard console input, ignores all commands until a valid PLACE command is provided and all subsequent invalid commands or commands causing the robot to fall.
